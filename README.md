@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&layout=compact&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeon20071&repo=github-readme-stats&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aeon20071/aeon20071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
