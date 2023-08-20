@@ -1,4 +1,9 @@
 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=We are all in the gutter, but some of us are looking at the star .;身在井隅，心向璀璨。&center=true&size=27"> </a> </h1>
+<a href="https://github.com/HIM198/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
+
 # Hello World ! 😺
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn)
