@@ -1,10 +1,14 @@
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=2000&pause=4000&color=0969DA&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=435&lines=%E8%BA%AB%E5%9C%A8%E4%BA%95%E9%9A%85%EF%BC%8C%E5%BF%83%E5%90%91%E7%92%80%E7%92%A8%E3%80%82" alt="Typing SVG" /></a> </h1>
 
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=2000&pause=4000&color=0969DA&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=435&lines=%E8%BA%AB%E5%9C%A8%E4%BA%95%E9%9A%85%EF%BC%8C%E5%BF%83%E5%90%91%E7%92%80%E7%92%A8%E3%80%82" alt="Typing SVG" /></a> </h1>
 <a href="https://github.com/aeon20071/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=aeon20071&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
 # Hello World ! 😺
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn)
 
