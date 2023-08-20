@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&&bg_color=30,83a4d4,b6fbff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&bg_color=EFF0F4&locale=cn)
 
 <!--
 **aeon20071/aeon20071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
