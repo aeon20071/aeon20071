@@ -5,7 +5,6 @@
 </a>
 
 # Hello World ! 😺
-
 ### 👨🏻‍💻太原师范学院在读计算机系研究生，目前研究方向为大数据与机器学习。
 #### 工作邮箱：aeolian20071@foxmail.com
 #### 该站托管本人的一些代码程序，绝大部分项目可进行二次开发。
@@ -13,8 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&layout=compact&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeon20071&repo=github-readme-stats&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aeon20071/aeon20071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
