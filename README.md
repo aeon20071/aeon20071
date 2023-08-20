@@ -6,9 +6,6 @@
 
 # Hello World ! 😺
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&layout=compact&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
