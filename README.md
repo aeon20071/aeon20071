@@ -1,4 +1,4 @@
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+YaHei+UI&weight=800&size=32&pause=1000&color=4871E3&vCenter=true&width=435&lines=%E8%BA%AB%E5%9C%A8%E4%BA%95%E9%9A%85%EF%BC%8C%E5%BF%83%E5%90%91%E7%92%80%E7%92%A8%E3%80%82" alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=50&color=2E67D3&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E5%81%87&random=%E5%81%87&width=500&height=75&lines=We+are+all+in+the+gutter%2C+;but+some+of+us+are+looking+at+the+stars." alt="Typing SVG" /></a></h1>
 
 <a href="https://github.com/aeon20071/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=aeon20071&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
