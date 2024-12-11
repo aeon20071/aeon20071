@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=50&color=2E67D3&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E5%81%87&random=%E5%81%87&width=500&height=75&lines=We+are+all+in+the+gutter%2C+;but+some+of+us+are+looking+at+the+stars." alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=50&color=2E67D3&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E5%81%87&random=%E5%81%87&width=500&height=75&lines=We+are+all+in+the+gutter%2C+;but+some+of+us+are+looking+at+the+stars." alt="Typing SVG" /></a>
 
 <!--
 <a href="https://github.com/aeon20071/computer-vision-in-action">    
@@ -9,7 +9,7 @@
 # Hello World ! 😺
 ### 👨🏻‍🎓 太原师范学院在读计算机系研究生
 #### 📮 工作邮箱：aeolian20071@foxmail.com
-#### ✨ 该站托管本人的一些代码程序，绝大部分项目可进行二次开发。
+#### ✨ 该站托管本人的一些算法及程序，开源项目可与本人沟通进行二次开发。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn)
 
