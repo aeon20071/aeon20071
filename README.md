@@ -11,7 +11,7 @@
 #### 📮 工作邮箱：aeolian20071@foxmail.com
 #### ✨ 该站托管本人的一些算法及程序，开源项目可与本人沟通进行二次开发。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn&count_private=true&line_height=20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&show_icons=true&title_color=4871E3&text_color=010101&bg_color=FDFDFD&icon_color=58A5F9&hide_border=true&locale=cn&count_private=true&line_height=28)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&layout=compact&bg_color=FDFDFD&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
