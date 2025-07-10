@@ -5,11 +5,11 @@
 </a>
 -->
 
-# Hello World ! 😺
+# Hello World ! 🚀
 
-### 👨🏻‍🎓 太原师范学院在读计算机系研究生
-#### 📮 工作邮箱：aeolian20071@foxmail.com
-#### ✨ 该站托管本人的一些算法及程序，开源项目可与本人沟通进行二次开发。
+### 👨🏻‍🎓 A postgraduate student majoring in Computer Science at Taiyuan Normal University, currently pursuing studies.
+#### 📮 Personal email address：aeolian20071@foxmail.com
+#### ✨ This site hosts some of my algorithms and programs. For open-source projects, further development can be carried out through communication with me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeon20071&theme=shadow_blue&show_icons=true&hide_border=true&locale=cn&count_private=true&line_height=28&card_width=500)
 
