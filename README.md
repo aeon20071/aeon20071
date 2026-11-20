@@ -60,17 +60,24 @@ Feel free to reach out if you are interested in open-source collaboration.
 
 ---
 
-<!-- 固定高度，&nbsp; 添加空白间隔，外层不要套a标签（消除下划线） -->
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=aeon20071&title_color=4285F4&text_color=e8eaed&icon_color=4285F4&bg_color=1f1f1f&hide_border=true&count_private=true&line_height=26" />
-&nbsp;&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&title_color=4285F4&text_color=e8eaed&bg_color=1f1f1f&hide_border=true&count_private=true&layout=compact" />
-
----
-
 ### 📄 Publication
 [![Paper](https://img.shields.io/badge/Applied%20Intelligence-DACD%20(2026)-4285F4?style=flat&logo=springer&logoColor=ffffff)](https://doi.org/10.1007/s10489-026-07520-7)
 > DACD: a dynamic adaptive concept drift learning method for streaming data
 > DOI: [10.1007/s10489-026-07520-7](https://doi.org/10.1007/s10489-026-07520-7)
+
+---
+
+<!-- 表格方案：稳定同行，单元格自带空隙，不会出现下划线 -->
+<table>
+  <tr>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=aeon20071&title_color=4285F4&text_color=e8eaed&icon_color=4285F4&bg_color=1f1f1f&hide_border=true&count_private=true&line_height=26" />
+    </td>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&title_color=4285F4&text_color=e8eaed&bg_color=1f1f1f&hide_border=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
