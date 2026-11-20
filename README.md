@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📬 Contact
-- Email: [aeolian20071@foxmail.com](mailto:aeolian20071@foxmail.com)
+Email: [aeolian20071@foxmail.com](mailto:aeolian20071@foxmail.com)
 
 ### 🧩 About this repository
 This space collects my algorithm practices and personal programs.
@@ -62,9 +62,9 @@ Feel free to reach out if you are interested in open-source collaboration.
 
 ### 📊 Activity
 <div style="display: inline_block">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aeon20071&title_color=4285F4&text_color=e8eaed&icon_color=4285F4&bg_color=1f1f1f&hide_border=true&count_private=true&line_height=26" />
+  <img height="180" width="380" src="https://github-readme-stats.vercel.app/api?username=aeon20071&title_color=4285F4&text_color=e8eaed&icon_color=4285F4&bg_color=1f1f1f&hide_border=true&count_private=true&line_height=26" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aeon20071&background=1f1f1f&ring=4285F4&fire=4285F4&currStreakNum=e8eaed&sideNums=e8eaed&currStreakLabel=4285F4&sideLabels=4285F4&labels=e8eaed&dates=e8eaed&hide_border=true" />
+  <img height="180" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=aeon20071&background=1f1f1f&ring=4285F4&fire=4285F4&currStreakNum=e8eaed&sideNums=e8eaed&currStreakLabel=4285F4&sideLabels=4285F4&labels=e8eaed&dates=e8eaed&hide_border=true" />
 </div>
 
 ---
