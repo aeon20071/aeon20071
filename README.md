@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeon20071&theme=shadow_blue&layout=compact&hide_border=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
+##### 📄 Publication: [DACD: a dynamic adaptive concept drift learning method for streaming data](https://doi.org/10.1007/s10489-026-07520-7) (Applied Intelligence, 2026)
+
 <!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=50&color=2E67D3&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E5%81%87&random=%E5%81%87&width=500&height=75&lines=We+are+all+in+the+gutter%2C+;but+some+of+us+are+looking+at+the+stars." alt="Typing SVG" /></a>
 -->
