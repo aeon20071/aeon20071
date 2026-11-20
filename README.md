@@ -7,7 +7,7 @@
 
 # Hello World ! 🚀
 
-### 👨🏻‍🎓 A postgraduate student majoring in Computer Science at Taiyuan Normal University.
+### 👨‍💻 Master of Software Engineering, currently working in the information technology section of a public institution.
 #### 📮 Personal email address：aeolian20071@foxmail.com
 #### ✨ This site hosts some of my algorithms and programs. For open-source projects, further development can be carried out through communication with me.
 
