@@ -71,8 +71,8 @@ Feel free to reach out if you are interested in open-source collaboration.
 
 ### 📄 Publication
 [![Paper](https://img.shields.io/badge/Applied%20Intelligence-DACD%20(2026)-4285F4?style=flat&logo=springer&logoColor=ffffff)](https://doi.org/10.1007/s10489-026-07520-7)
-> DACD: a dynamic adaptive concept drift learning method for streaming data
-> DOI: [10.1007/s10489-026-07520-7](https://doi.org/10.1007/s10489-026-07520-7)
+> DACD: a dynamic adaptive concept drift learning method for streaming data. 
+> (DOI: [10.1007/s10489-026-07520-7](https://doi.org/10.1007/s10489-026-07520-7))
 
 ---
 
